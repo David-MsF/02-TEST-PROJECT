@@ -1,0 +1,7 @@
+h1 {
+    color: blue;
+    font-size: 32px; /* správně 'font-size', ne 'size' */
+    background-color: brown;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
